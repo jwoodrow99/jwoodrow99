@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Tabs are way better than spaces!
 
 ## Connect With Me
-[<img align="left" src="https://raw.githubusercontent.com/jwoodrow99/jwoodrow99/main/images/earth/earth.svg" alt="Linked In" width="30">](https://jackwoodrow.com)
+[<img align="left" src="https://raw.githubusercontent.com/jwoodrow99/jwoodrow99/main/images/earth/earth.svg" alt="Linked In" width="35">](https://jackwoodrow.com)
 
 [<img src="https://raw.githubusercontent.com/jwoodrow99/jwoodrow99/main/images/linkedin/linkedin-original.svg" alt="Linked In" width="30">](https://www.linkedin.com/in/jack-woodrow-6a5b87178)
 
