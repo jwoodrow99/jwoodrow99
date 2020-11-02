@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on any cool projects and keep amazing projects alive!
 - 💬 Ask me about the Prysim algorithm
 - 📫 Contact me at <a href = "mailto: jackwoodrow@protonmail.com">jackwoodrow@protonmail.com</a>
+- 🌐 Check out my website <a href = "https://jackwoodrow.com">https://jackwoodrow.com</a>
 - ⚡ Fun fact: Tabs are way better than spaces!
 
 ## Connect With Me
