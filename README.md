@@ -2,12 +2,12 @@
 
 **I am a Canadian Software Developer with a passion for code**
 
-- 🔭 I’m currently working on Prysim, an anonymous and end-to-end encrypted chat service to keep your personal data secure.
+- 🔭 I’m currently working on on the Prysim algorythum, and FVC (File Version Control) bringing the power of git to binary and media files.
 - 🌱 I’m currently learning Power BI & GraphQL.
 - 👯 I’m looking to collaborate on any cool projects and keep amazing projects alive!
-- 💬 Ask me about the Prysim algorithm
+- 💬 Ask me about the Prysim algorithm or FVC
 - 📫 Contact me at <a href = "mailto: jackwoodrow@protonmail.com">jackwoodrow@protonmail.com</a>
-- 🌐 Check out my website <a href = "https://jackwoodrow.com">https://jackwoodrow.com</a>
+- 🌐 Check out my website <a href = "https://blueorbitmedia.com/">https://blueorbitmedia.com/</a>
 - ⚡ Fun fact: Tabs are way better than spaces!
 
 ## Connect With Me
