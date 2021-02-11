@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Power BI & GraphQL.
 - 👯 I’m looking to collaborate on any cool projects and keep amazing projects alive!
 - 💬 Ask me about the Prysim algorithm or FVC
-- 📫 Contact me at <a href = "mailto: jackwoodrow@protonmail.com">jackwoodrow@protonmail.com</a>
+- 📫 Contact me at <a href = "mailto: jackwoodrow@blueorbitmedia.com">jackwoodrow@blueorbitmedia.com</a>
 - 🌐 Check out my website <a href = "https://blueorbitmedia.com/">https://blueorbitmedia.com/</a>
 - ⚡ Fun fact: Tabs are way better than spaces!
 
