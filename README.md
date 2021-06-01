@@ -8,8 +8,8 @@
 - 💬 Ask me about the Prysim algorithm or FVC
 - 📫 Contact me at <a href = "mailto: jackwoodrow@blueorbitmedia.com">jackwoodrow@blueorbitmedia.com</a>
 - 🌐 Check out my website <a href = "https://blueorbitmedia.com/">https://blueorbitmedia.com/</a>
-- ⚡ Fun fact: Tabs are way better than spaces!
 - 🏆 Check out some of my certificates at [https://www.freecodecamp.org/jwoodrow99](https://www.freecodecamp.org/jwoodrow99)
+- ⚡ Fun fact: Tabs are way better than spaces!
 
 ## Connect With Me
 
