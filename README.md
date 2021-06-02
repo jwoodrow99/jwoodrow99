@@ -3,7 +3,7 @@
 **I am a Canadian Software Developer with a passion for code**
 
 - 🔭 I’m currently working on on the Prysim algorythum, and FVC (File Version Control) bringing the power of git to binary and media files.
-- 🌱 I’m currently learning TensorFlow for ML.
+- 🌱 I’m currently learning Machine learning with TensorFlow.
 - 👯 I’m looking to collaborate on any cool projects and keep amazing projects alive!
 - 💬 Ask me about the Prysim algorithm or FVC
 - 📫 Contact me at <a href = "mailto: jackwoodrow@blueorbitmedia.com">jackwoodrow@blueorbitmedia.com</a>
