@@ -15,7 +15,7 @@
 
 [<img align="left" src="https://raw.githubusercontent.com/jwoodrow99/jwoodrow99/main/devicon/earth/earth.svg" alt="Linked In" width="30">](https://blueorbitmedia.com/)
 
-[<img align="left" src="https://blueorbitmedia.com/wp-content/uploads/2021/10/transparent-rectangle.png" alt="Linked In" width="30">](https://blueorbitmedia.com/)
+[<img align="left" src="https://blueorbitmedia.com/wp-content/uploads/2021/10/transparent-rectangle.png" alt="Linked In" width="60">](https://blueorbitmedia.com/)
 
 [<img src="https://raw.githubusercontent.com/jwoodrow99/jwoodrow99/main/devicon/linkedin/linkedin-original.svg" alt="Linked In" width="30">](https://www.linkedin.com/in/jack-woodrow-6a5b87178)
 
