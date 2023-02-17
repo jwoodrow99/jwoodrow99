@@ -2,11 +2,11 @@
 
 **I am a Canadian Software Developer with a passion for code**
 
-- 🔭 I’m currently working on the Prysim algorythum, and FVC (File Version Control) bringing the power of git to binary and media files.
-- 🌱 I’m currently learning Machine learning with TensorFlow.
+- 🔭 I’m currently working on Prism Chat E2E and anonymous decentralized chat, and FVC (File Version Control) bringing the power of git to binary and media files.
+- 🌱 I’m currently learning Machine learning with TensorFlow, Functional Programing with Clojure, WebAssembly with Rust and GO.
 - 👯 I’m looking to collaborate on any cool projects and keep amazing projects alive!
-- 💬 Ask me about the Prysim algorithm or FVC
-- 📫 Contact me at <a href = "mailto: jackwoodrow@blueorbitmedia.com">jackwoodrow@blueorbitmedia.com</a>
+- 💬 Ask me about the Prism Chat or FVC!
+- 📫 Contact me at <a href = "mailto: jackwoodrow99@gmail.com">jackwoodrow99@gmail.com</a>
 - 🌐 Check out my website <a href = "https://blueorbitmedia.com/">https://blueorbitmedia.com/</a>
 - 🏆 Check out some of my certificates at [https://www.freecodecamp.org/jwoodrow99](https://www.freecodecamp.org/jwoodrow99)
 - ⚡ Fun fact: Tabs are way better than spaces!
